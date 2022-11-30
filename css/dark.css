@@ -1,0 +1,365 @@
+
+
+.banne-middle:before {
+    content: "";
+    background-color: #111418;
+    width: 100%;
+    height: 100%;
+	opacity:.2;
+    position: absolute;
+    left: 0;
+    top: 0;	
+}
+.bbbb {
+    background: #1C1E22;;
+}
+
+.cursor-outer2.cursor-outer {
+    border: 1px solid #fff;
+}
+.cursor-inner2.cursor-inner {
+    background-color: #fff;
+}
+
+.header-none {
+    background: #222429;
+}
+.logo-text a {
+    color: #fff;
+}
+
+.logo-text a h1{
+	background-image:url(../images/bg3.jpg);;
+}
+
+.main-menu ul li a {
+    color: #b1b1b1;
+}
+.main-menu ul li a:hover {
+    color: #fff;
+}
+.main-menu ul li.active a{
+	color:#fff;
+}
+
+.copy-right p {
+	color:#b1b1b1;
+}
+.copy-right p a {
+    color: #b1b1b1;
+}
+.copy-right p a:hover {
+    color: #fff;
+}
+
+
+
+.banner-text h1 {
+	color:#fff;
+}
+.banner-text h4 {
+	color:#fff;
+}
+.social li a {
+    color: #fff;
+    background: #222429;
+}
+.banner-text:after {
+    background: #222429;
+	opacity:.6;
+}
+
+
+.bg-gray-black{
+	background:#0a0a0a;
+}
+.body-bg-black{
+	background:#0a0a0a;	
+}
+
+
+
+
+.btn-color {
+    color: #2f2f2f;
+    background: #fff;
+}
+
+
+.section-title span, .about-title span {
+    color: #fff;
+    background: #222429;
+}
+.section-title h2 {
+	color:#fff;
+}
+
+
+.about-img::after {
+    background: #fff;
+}
+.about-img {
+    border: 5px solid #333;
+}
+.about-title h2 {
+	color:#fff;
+}
+.about-content p {
+	color:#b1b1b1;
+}
+.about-bio ul li p {
+	color:#b1b1b1;
+}
+.about-bio ul li span {
+    color: #fff;
+}
+
+.btn:hover.btn-color{
+    color: #2f2f2f;
+    background: #fff;
+    box-shadow: 0 0 35px rgb(255 255 255 / 20%);
+}
+
+
+
+.tittle-warp h2 {
+	color: #fff;
+}
+.single-skill-bar .skill-title {
+    color: #b1b1b1;
+}
+.barfiller .fill {
+    background: #fff !important;
+}
+.barfiller {
+    background-color: #222429;
+}
+.counter-wrapper {
+    background: #222429;
+}
+.counter-text h2 {
+    color: #fff;
+}
+.counter-icon a {
+    color: #fff;
+    background: #0c0c0c;
+}
+.counter-wrapper:hover {
+	box-shadow: 0 0 35px rgb(255 255 255 / 8%);
+}
+.counter-wrapper:hover .counter-icon a {
+    background: #fff;
+    color: #2f2f2f;
+}
+.counter-text span {
+    color: #b1b1b1;
+}
+
+
+.brand-img:hover img {
+    filter: brightness(300%);
+}
+
+
+
+.Portfolio-menu button {
+    color: #b1b1b1;
+}
+.Portfolio-menu button a:hover, .Portfolio-menu button.active a {
+    color: #fff;
+}
+
+.Portfolio-menu button a {
+    color: #b1b1b1;
+}
+.portfolio-content h2 {
+    color: #fff;
+}
+.portfolio-content:hover h2 a {
+    color: #fff;
+}
+.portfolio-content span {
+    color: #b1b1b1;
+}
+
+
+.modal-content {
+    background:#222429;
+}
+.left-part h4 {
+    color: #fff;
+}
+.left-part span {
+    color: #b1b1b1;
+}
+.left-part-desc p {
+    color:#b1b1b1;
+}
+.left-part-desc p.italic {
+    background: #0a0a0a;
+}
+.post-detail ul li span {
+    color: #fff;
+}
+.post-detail ul li p {
+    color: #b1b1b1;
+}
+.post-detail ul li p a {
+    color: #fff;
+}
+.extra-hover:after {
+    background-color: rgb(255 255 255 / 30%);
+}
+
+.modal-header button {
+    background: #0a0a0a;
+}
+.modal-header a {
+    color: #fff !important;
+}
+
+
+
+.testi-warp {
+    background: #222429;
+}
+.testi-active .testi-img img {
+    border: 1px solid #0a0a0a;
+    -webkit-box-shadow: 0px 10px 14px 0px rgb(255 255 255 / 10%);	
+	box-shadow: 0px 10px 14px 0px rgb(255 255 255 / 10%);	
+}
+.testi-text p {
+    color:#b1b1b1;
+}
+.testi-bio h4 {
+	color:#fff;
+}
+.testi-bio h6 {
+    color: #b1b1b1;
+}
+.testi-quote i {
+    color: #fff;
+}
+
+
+
+.blog-warp .blog-content {
+    background-color: #222429;
+}
+.des-img h5 {
+    color:#fff;
+}
+.des-img img {
+    border: 1px solid #0a0a0a;
+    -webkit-box-shadow: 0px 10px 14px 0px rgb(255 255 255 / 10%);	
+	box-shadow: 0px 10px 14px 0px rgb(255 255 255 / 10%);
+}
+.des-img .des-date span {
+    color: #b1b1b1;
+}
+.blog-warp .blog-content h4 {
+	color:#fff;
+}
+.blog-warp .blog-content h4 a:hover {
+    color: #fff;
+}
+.blog-warp .blog-content p {
+    color: #b1b1b1;
+}
+
+
+
+.features-content {
+    background: #222429;
+}
+.features-content h4 {
+	color:#fff;
+}
+.features-content p {
+	color:#b1b1b1;
+}
+.features-wrapper .features-icon i {
+    color: #fff;
+    background: #0a0a0a;
+}
+.features-wrapper:hover .features-icon i {
+    background: #fff;
+    color: #2f2f2f;
+}
+.features-content p a {
+    color: #b1b1b1;
+}
+
+.contact-form input {
+    border-color: #222429;
+    color: #fff;
+    background: #222429;
+}
+.contact-form textarea {
+    color: #fff;
+	border-color: #222429;
+    background: #222429;
+}
+.contact-form button:hover {
+    color: #2f2f2f;
+	box-shadow: 0 0 35px rgb(255 255 255 / 20%);
+    background: #fff;
+}
+.contact-form .form-group .icon-bg i {
+    color: #fff;
+}
+.contact-form .form-control:focus, .contact-form .form-control:active {
+    border-color: #fff;
+    box-shadow: none;
+    background: #222429;
+    color: #fff;
+}
+.contact-form button {
+    background: #fff;
+    color: #2f2f2f;
+}
+
+
+.hola h2{
+	color:#fff;
+}
+#menuToggle {
+    background: #222429;
+	box-shadow: 0 0 35px rgb(255 255 255 / 0.44%);	
+}
+#menuToggle > span {
+    background: #fff;
+}
+#menuToggle input:checked ~ span {
+    background: #fff;
+}
+
+
+#mobile-menu {
+    background-color: #222429;
+box-shadow: 0 0 35px rgb(255 255 255 / 7%);	
+}
+.mobile-menu ul li.active a i {
+    color: #fff;
+}
+.mobile-menu ul li a i {
+    color: #b1b1b1;
+}
+.mobile-menu ul li {
+    border-bottom: 1px solid #444;
+}
+.mobile-menu ul li a:hover i {
+    color: #fff;
+}
+
+
+
+.hola {
+    background: #000;
+}
+.Top_Border {
+    border-top-color: #fff;
+}
+
+
+

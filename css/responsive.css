@@ -1,0 +1,150 @@
+/* Normal desktop :992px. LG Device */
+@media (min-width: 992px) and (max-width: 1200px) {
+.header-none{
+	display:none;
+}
+.content {
+    padding-left: 0px;
+}
+.banner-area .home-social {
+    position: absolute;
+    right: 0px;
+    bottom:-65px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/* small mobile layout :320px. */
+@media only screen and (max-width: 767px) {
+
+.header-none{
+	display:none;
+}
+.content {
+    padding-left: 0px;
+}
+.banner-text #typed {
+    font-size: 24px;
+}
+.banner-text h4 {
+    font-size: 24px;
+}
+.banner-text h1 {
+    font-size: 50px;
+}
+.banner-text:after {
+    left: -55%;
+    top: -40px;
+}
+
+
+.testi-img img{
+    float: left;
+}
+.testi-bio{
+    margin-top: 12px;
+    display: inline-block;
+}
+.brand-active.owl-carousel .owl-item img {
+    width: 35%;
+}
+
+.section-title h2 {
+    font-size: 34px;
+}
+.extra-mb {
+    margin-bottom: 0px;
+}
+.about-bio {
+    margin-bottom: 0px; 
+}
+.about-btn{
+	margin-top:25px;
+}
+.home-count{
+	margin-bottom:50px;
+}
+.extra-margin {
+    margin-top: 0px;
+}
+.home-text h5 {
+    margin-top: 0;
+}
+
+
+}
+
+/* Large Mobile layout:550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+.header-none{
+	display:none;
+}
+.content {
+    padding-left: 0px;
+}
+.banner-text #typed {
+    font-size: 24px;
+}
+.banner-text h4 {
+    font-size: 24px;
+}
+.banner-text h1 {
+    font-size: 50px;
+}
+.banner-text:after {
+    left: -55%;
+    top: -40px;
+}
+
+.brand-active.owl-carousel .owl-item img {
+    width: 35%;
+}
+.testi-bio {
+    margin-top: 5px;
+}
+.section-title h2 {
+    font-size: 34px;
+}
+.extra-mb {
+    margin-bottom: 0px;
+}
+.about-bio {
+    margin-bottom: 0px; 
+}
+.about-btn{
+	margin-top:25px;
+}
+.home-count{
+	margin-bottom:50px;
+}
+
+.extra-margin {
+    margin-top: 0px;
+}
+.home-text h5 {
+    margin-top: 0;
+}
+
+
+}
+
